@@ -13,7 +13,7 @@ This project breaks down dimensionality reduction into four executable steps:
 
 ## Visual Proof
 
-![Reconstruction showing k=5, k=20, k=50, k=150](assets/reconstruction.png)
+![Reconstruction showing k=5, k=20, k=50, k=150](../../Assets/Reconstruction.png)
 
 ## Local Setup
 
